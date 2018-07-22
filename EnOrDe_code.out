@@ -1,0 +1,61 @@
+PLease input the number of rows(n) and the number of columns(m):
+
+Please input the matrix of coefficients (named C)  you use to encode the data:
+
+Because the number of data sets must equals to m,so...
+
+Please input the data which is a column vector of 4 rows  you wanna encode: 
+
+encode result (5 rows  1 columns)
+
+  152
+  153
+  180
+    6
+  165
+
+Now you need to pick m lines of the matrix you've just input to decode the encoded data.
+The lines in the matrix are numbered from 1 to n 
+The data to input should be in ascending order:
+The inverse of the submatrix of C you've just picked:
+  185  106  226   16
+   43   87   97   11
+  136   11  212  196
+   27   54   87  223
+
+
+After decoding:
+   34
+  243
+   19
+   90
+PLease input the number of rows(n) and the number of columns(m):
+
+Please input the matrix of coefficients (named C)  you use to encode the data:
+
+Because the number of data sets must equals to m,so...
+
+Please input the data which is a column vector of 2 rows  you wanna encode: 
+
+encode result (3 rows  1 columns)
+
+   95
+  180
+  237
+
+Now you need to pick m lines of the matrix you've just input to decode the encoded data.
+The lines in the matrix are numbered from 1 to n 
+The data to input should be in ascending order:
+The inverse of the submatrix of C you've just picked:
+  140  141
+  141  141
+
+
+After decoding:
+    6
+   89
+PLease input the number of rows(n) and the number of columns(m):
+
+real	0m0.020s
+user	0m0.009s
+sys	0m0.000s
